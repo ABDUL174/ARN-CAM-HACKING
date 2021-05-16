@@ -21,5 +21,4 @@ Mode Of Execution:
     python3 arn-cam-hackers.py
 
 
-
-/home/arn/Pictures/Screenshot_2021-05-16_13_13_03.png
+Screenshot_2021-05-16_13_13_03.png
